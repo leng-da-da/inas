@@ -1,1 +1,1 @@
-chrome-novnc
+oldiy/chrome-novnc
