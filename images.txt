@@ -1,1 +1,2 @@
+diygod/rsshub
 oldiy/chrome-novnc
