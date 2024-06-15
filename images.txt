@@ -1,1 +1,1 @@
-SuperNG6/docker-aria2
+p3terx/aria2-pro
