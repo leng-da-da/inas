@@ -1,1 +1,1 @@
-P3TERX/Aria2-Pro-Core
+p3terx/Aria2-Pro-Core
