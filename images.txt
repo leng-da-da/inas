@@ -1,2 +1,2 @@
 redis:7.2.5
-leng-da-da/qinglong:2.11.3
+whyour/qinglong:2.11.3
