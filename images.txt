@@ -1,1 +1,1 @@
-redis/redis:unstable
+redis/redis
